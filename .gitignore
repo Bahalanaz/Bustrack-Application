@@ -1,0 +1,59 @@
+# Flutter/Dart
+sms/.dart_tool/
+sms/.flutter-plugins
+sms/.flutter-plugins-dependencies
+sms/build/
+sms/.pub-cache/
+sms/.pub/
+sms/**/doc/api/
+sms/pubspec.lock
+
+# Android
+sms/android/local.properties
+sms/android/.gradle/
+sms/android/gradlew
+sms/android/gradlew.bat
+sms/android/gradle/wrapper/gradle-wrapper.jar
+sms/android/app/debug/
+sms/android/app/profile/
+sms/android/app/release/
+sms/android/**/GeneratedPluginRegistrant.java
+sms/android/**/*.keystore
+sms/android/**/*.jks
+sms/android/key.properties
+
+# iOS
+sms/ios/Flutter/.last_build_id
+sms/ios/Flutter/ephemeral/
+sms/ios/**/GeneratedPluginRegistrant.*
+sms/ios/Pods/
+sms/ios/.symlinks/
+
+# macOS
+sms/macos/Flutter/ephemeral/
+sms/macos/Pods/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Claude Code
+.claude/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python backend
+__pycache__/
+*.pyc
+*.db
+*.session.sql
+
+# Misc
+*.class
+*.log
+*.swp
