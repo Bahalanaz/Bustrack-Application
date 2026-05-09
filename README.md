@@ -1,4 +1,5 @@
 Bustrack-Application
+
 BusTrack is a cross-platform university bus management application built with Flutter and a Python/Flask backend, featuring role-based dashboards for students, drivers, and administrators with NFC/RFID-based attendance tracking via Raspberry Pi. Developed as a team-based project for the University of Greater Manchester using Agile (Scrum) methodologies with a team of 6 members, where I rotated between Scrum Master and Developer roles.
 
 This project demonstrates real-time API integration, hardware-software integration with Raspberry Pi and RFID modules, cloud database deployment, and production-level Flutter development in a collaborative Agile environment.
